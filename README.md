@@ -19,8 +19,10 @@ This project aims to enhance product discovery on Amazon by enabling users to fi
 
 ## How to Run
 
-1. **Clone the Repository**: 
-
+1. **Clone the Repository**:
+```
+   git@github.com:vigneshavmm/Product_recommedation_system.git
+  ```
 
 2. **Install Dependencies**:
   ```
